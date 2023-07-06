@@ -1,0 +1,19 @@
+body{
+    background-image: url(bgimage.jpg) ;
+    background-position: center;
+    background-size: 100%;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    background-color: rgb(139, 199, 179);
+    color: blue;
+}
+p{
+    width: 60%;
+    border: 2px solid black;
+    border-radius: 4%;
+    font-size: xx-large;
+    background-color: rgb(41, 172, 128);
+
+}
