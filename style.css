@@ -19,3 +19,8 @@ p{
     flex-direction: column-reverse;
 
 }
+span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: chocolate;
+    border: 2px solid pink;
+}
